@@ -24,6 +24,7 @@
 		C381261716C9472800E5C3E0 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C38125F616C9472700E5C3E0 /* CoreData.framework */; };
 		C381261F16C9472800E5C3E0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C381261D16C9472800E5C3E0 /* InfoPlist.strings */; };
 		C381262216C9472800E5C3E0 /* Document_PhoneGap_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C381262116C9472800E5C3E0 /* Document_PhoneGap_AppTests.m */; };
+		C381262C16C94EE900E5C3E0 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = C381262B16C94EE900E5C3E0 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		C381261E16C9472800E5C3E0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C381262016C9472800E5C3E0 /* Document_PhoneGap_AppTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Document_PhoneGap_AppTests.h; sourceTree = "<group>"; };
 		C381262116C9472800E5C3E0 /* Document_PhoneGap_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Document_PhoneGap_AppTests.m; sourceTree = "<group>"; };
+		C381262B16C94EE900E5C3E0 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 		C38125E416C9472700E5C3E0 = {
 			isa = PBXGroup;
 			children = (
+				C381262B16C94EE900E5C3E0 /* index.html */,
 				C38125F816C9472700E5C3E0 /* Document_PhoneGap_App */,
 				C381261A16C9472800E5C3E0 /* Document_PhoneGap_AppTests */,
 				C38125EF16C9472700E5C3E0 /* Frameworks */,
@@ -237,6 +240,7 @@
 				C381260516C9472700E5C3E0 /* Default.png in Resources */,
 				C381260716C9472700E5C3E0 /* Default@2x.png in Resources */,
 				C381260916C9472700E5C3E0 /* Default-568h@2x.png in Resources */,
+				C381262C16C94EE900E5C3E0 /* index.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

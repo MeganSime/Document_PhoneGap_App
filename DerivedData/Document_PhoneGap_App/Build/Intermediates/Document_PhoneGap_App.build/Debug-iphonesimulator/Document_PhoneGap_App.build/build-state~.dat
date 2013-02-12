@@ -1,0 +1,320 @@
+TDocument_PhoneGap_App
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Info.plist Document_PhoneGap_App/Document_PhoneGap_App-Info.plist
+cDataModelVersionCompile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld
+cProcessPCH /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.pth Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App normal i386
+cGenerateDSYMFile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App
+cCopyStringsFile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/en.lproj/InfoPlist.strings Document_PhoneGap_App/en.lproj/InfoPlist.strings
+cCpResource Document_PhoneGap_App/Default.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png
+cCpResource Document_PhoneGap_App/Default@2x.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png
+cCpResource Document_PhoneGap_App/Default-568h@2x.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png
+cCpResource index.html DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.html
+cTouch /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000005114DD80000000000030F580
+t1360321920
+s3208576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000005114DD80000000000000053B
+t1360321920
+s1339
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005114DD810000000000228FE0
+t1360321921
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005114DD8400000000003DDFA0
+t1360321924
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005114DD8400000000000015F7
+t1360321924
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005114DD8F0000000000000E8D
+t1360321935
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005114DD910000000000AB6230
+t1360321937
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c000000005114DDB00000000000001B73
+t1360321968
+s7027
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.o
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/Document_PhoneGap_App.LinkFileList
+c00000000511A36D4000000000000020D
+t1360672468
+s525
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.pth
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Info.plist
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/PkgInfo
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.html
+t2
+s0
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m
+c0000000051190FA70000000000001AC9
+t1360596903
+s6857
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch
+c0000000051190FA7000000000000017B
+t1360596903
+s379
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld
+c0000000051190FA70000000000000088
+t1360596903
+s136
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/en.lproj/InfoPlist.strings
+c0000000051190FA7000000000000002D
+t1360596903
+s45
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m
+c0000000051190FA7000000000000016D
+t1360596903
+s365
+
+N/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/index.html
+c00000000511A36CF0000000000000528
+t1360672463
+s1320
+
+NDocument_PhoneGap_App/Document_PhoneGap_App-Info.plist
+c0000000051190FBE00000000000005B0
+t1360596926
+s1456
+
+CBuild AST from /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m
+r0
+
+CBuild AST from /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd23987536ecab641^930233546ecab641^---0#1#0#--18"Check dependencies36"63E7472E-2C36-4001-A616-7D7015E2585B-
+
+CCompileC DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382365273.842310
+e382365274.290935
+r1
+xCompileC
+xDerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.o
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Compile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m38f7d7596ecab641^857a4a5a6ecab641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m0000000000000000^5259"CompileC DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.o Document_PhoneGap_App/DMP2AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-generated-files.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-own-target-headers.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-all-target-headers.hmap -iquote /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-project-headers.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/DerivedSources/i386 -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/DerivedSources -F/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator -include /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.d --serialize-diagnostics /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.dia -c /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/DMP2AppDelegate.m -o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/DMP2AppDelegate.o36"120DEFDA-74D4-4650-BB93-FD708D39DA5E-
+
+CCompileC DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382365273.842273
+e382365274.272844
+r1
+xCompileC
+xDerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.o
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m77f8d7596ecab641^1fd8455a6ecab641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m0000000000000000^5193"CompileC DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.o Document_PhoneGap_App/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-generated-files.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-own-target-headers.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-all-target-headers.hmap -iquote /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-project-headers.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/DerivedSources/i386 -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/DerivedSources -F/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator -include /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.dia -c /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/main.m -o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/main.o36"2089F13F-DBD1-4E99-90A4-C481FEFC2974-
+
+CCopyStringsFile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/en.lproj/InfoPlist.strings Document_PhoneGap_App/en.lproj/InfoPlist.strings
+s382365275.453678
+e382365275.467717
+r1
+xCopyStringsFile
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/en.lproj/InfoPlist.strings
+xDocument_PhoneGap_App/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy Document_PhoneGap_App/en.lproj/InfoPlist.strings0c56745b6ecab641^adbd775b6ecab641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/en.lproj/InfoPlist.strings0000000000000000^835"CopyStringsFile DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/en.lproj/InfoPlist.strings Document_PhoneGap_App/en.lproj/InfoPlist.strings    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/en.lproj -- Document_PhoneGap_App/en.lproj/InfoPlist.strings36"0F36676A-3303-4D59-B986-1E42899DE56E-
+
+CCpResource Document_PhoneGap_App/Default-568h@2x.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png
+s382365275.453990
+e382365275.466674
+r1
+xCpResource
+xDocument_PhoneGap_App/Default-568h@2x.png
+xDerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png0f61745b6ecab641^6a87775b6ecab641^---0#0#0#-19%DVTDocumentLocation2@230"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png000000000080d041^923"CpResource "Document_PhoneGap_App/Default-568h@2x.png" "DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default-568h@2x.png"    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Default-568h@2x.png" /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app36"AA1F9720-4B07-4963-A97B-FEB92846953D-
+
+CCpResource Document_PhoneGap_App/Default.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png
+s382365275.453693
+e382365275.466648
+r1
+xCpResource
+xDocument_PhoneGap_App/Default.png
+xDerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png8c4c745b6ecab641^6479775b6ecab641^---0#0#0#-19%DVTDocumentLocation2@222"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png000000000080d041^893"CpResource Document_PhoneGap_App/Default.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default.png    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Default.png /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app36"E3826139-8D58-4DE0-9F04-6AC2017D1882-
+
+CCpResource Document_PhoneGap_App/Default@2x.png DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png
+s382365275.453721
+e382365275.466670
+r1
+xCpResource
+xDocument_PhoneGap_App/Default@2x.png
+xDerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png6e4f745b6ecab641^a182775b6ecab641^---0#0#0#-19%DVTDocumentLocation2@225"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png000000000080d041^908"CpResource "Document_PhoneGap_App/Default@2x.png" "DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Default@2x.png"    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Default@2x.png" /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app36"BB5C8513-2E66-4A3A-9CC0-17401DE883F3-
+
+CCpResource index.html DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.html
+s382365275.468200
+e382365275.471359
+r1
+xCpResource
+xindex.html
+xDerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.htmlf9f5775b6ecab641^daaa785b6ecab641^---0#0#0#-19%DVTDocumentLocation2@221"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.html000000000080d041^846"CpResource index.html DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/index.html    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/index.html /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app36"ED5BF86B-9FE9-4394-BC8C-0E30D84B98FD-
+
+CDataModelVersionCompile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld
+s382365268.266364
+e382365274.454775
+r1
+xDataModelVersionCompile
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"DataModelVersionCompile DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld7b6b44546ecab641^5186925a6ecab641^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld/0000000000000000^1238"DataModelVersionCompile DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -XD_MOMC_IOS_TARGET_VERSION=6.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App.xcdatamodeld /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App.momd36"00D56C32-CF39-4038-87E6-0EE1BF54A005-
+
+CGenerateDSYMFile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App
+s382365275.386026
+e382365275.444406
+r1
+xGenerateDSYMFile
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"Generate /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM7dec625b6ecab641^16c3715b6ecab641^---0#0#0#-19%DVTDocumentLocation2@215"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM000000000080d041^1058"GenerateDSYMFile DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App -o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app.dSYM36"712B818F-DB5C-4F2A-864E-E56D2A5DFE6B-
+
+CLd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App normal i386
+s382365274.298464
+e382365275.378235
+r1
+xLd
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection221"Link /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App28824c5a6ecab641^0fd5605b6ecab641^---0#0#0#--1780"Ld DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App normal i386    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator -F/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator -filelist /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Objects-normal/i386/Document_PhoneGap_App.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Document_PhoneGap_App36"A5F59BE4-EA86-445A-B67B-5DB8CB505A4D-
+
+CProcessInfoPlistFile /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Info.plist Document_PhoneGap_App/Document_PhoneGap_App-Info.plist
+s382365268.251276
+e382365268.256074
+r1
+xProcessInfoPlistFile
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Info.plist
+xDocument_PhoneGap_App/Document_PhoneGap_App-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Process Document_PhoneGap_App/Document_PhoneGap_App-Info.plistac7340546ecab641^f2b15b546ecab641^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App-Info.plist0000000000000000^1054"ProcessInfoPlistFile DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Info.plist Document_PhoneGap_App/Document_PhoneGap_App-Info.plist    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Document_PhoneGap_App/Document_PhoneGap_App-Info.plist -genpkginfo /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app/Info.plist36"1979CB68-E3F0-4CB4-BD49-425795D06A29-
+
+CProcessPCH /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.pth Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382365268.266384
+e382365273.834578
+r1
+xProcessPCH
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.pth
+xDocument_PhoneGap_App/Document_PhoneGap_App-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pchc17244546ecab641^d7a6d5596ecab641^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch0000000000000000^5015"ProcessPCH DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.pth Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-generated-files.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-own-target-headers.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-all-target-headers.hmap -iquote /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/Document_PhoneGap_App-project-headers.hmap -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/DerivedSources/i386 -I/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/Document_PhoneGap_App.build/Debug-iphonesimulator/Document_PhoneGap_App.build/DerivedSources -F/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.dia -c /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch -o /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.pth -MMD -MT dependencies -MF /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Intermediates/PrecompiledHeaders/Document_PhoneGap_App-Prefix-gesboxguybhislcnudyoibkesbme/Document_PhoneGap_App-Prefix.pch.d36"8688201E-03DD-40CB-A23B-43FC1E89C7D5-
+
+CProcessPCH /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Index/PrecompiledHeaders/Document_PhoneGap_App-Prefix-bqbxmjffinzsgvdxajnycvzimngt_ast/Document_PhoneGap_App-Prefix.pch.pth Document_PhoneGap_App/Document_PhoneGap_App-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app
+s382365275.483876
+e382365275.517801
+r1
+xTouch
+x/Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection200"Touch /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.appe0f37b5b6ecab641^698e845b6ecab641^---0#0#0#--620"Touch DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app    cd /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/administrator/Documents/CordovaLib-2.0.0/lib/ios/bin/DocumentManager/Document_PhoneGap_App/DerivedData/Document_PhoneGap_App/Build/Products/Debug-iphonesimulator/Document_PhoneGap_App.app36"06A6FBF3-3095-4960-BC5E-4A52217997BA-
+
